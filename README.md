@@ -3,9 +3,9 @@ Compresor aritmético basado en BS, MTF y modelo Estructurado; El cual aprovecha
 
 Ejemplo de uso (solo por consola):
 
-$ majinbuu -c archivoEjemplo // Comprime el archivo archivoEjemplo y genera archivoEjemplo.buu (buu es nuestra extención)
+$ ./majinbuu -c archivoEjemplo // Comprime el archivo archivoEjemplo y genera archivoEjemplo.buu (buu es nuestra extención)
 
-$ majinbuu -d archivoEjemplo.buu //Descomprime archivoEjemplo.buu y genera el archivo archivoEjemplo
+$ ./majinbuu -d archivoEjemplo.buu // Descomprime archivoEjemplo.buu y genera el archivo archivoEjemplo
 
 
 Observaciones:
