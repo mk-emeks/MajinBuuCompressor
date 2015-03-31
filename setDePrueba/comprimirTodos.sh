@@ -1,0 +1,45 @@
+echo "Comprimiendo el Calgary Corpus: "
+echo "comprimiendo bib"
+./majinbuu -c bib
+echo "comprimiendo book1"
+./majinbuu -c book1
+echo "comprimiendo book2"
+./majinbuu -c book2
+echo "comprimiendo trans"
+./majinbuu -c trans
+echo "comprimiendo progc"
+./majinbuu -c progc
+echo "comprimiendo progp"
+./majinbuu -c progp
+echo "comprimiendo progl"
+./majinbuu -c progl
+echo "comprimiendo news"
+./majinbuu -c news
+echo "comprimiendo geo"
+./majinbuu -c geo
+echo "comprimiendo paper1"
+./majinbuu -c paper1
+echo "comprimiendo paper2"
+./majinbuu -c paper2
+echo "comprimiendo paper3"
+./majinbuu -c paper3
+echo "comprimiendo paper4"
+./majinbuu -c paper4
+echo "comprimiendo paper5"
+./majinbuu -c paper5
+echo "comprimiendo paper6"
+./majinbuu -c paper6
+echo "comprimiendo obj1"
+./majinbuu -c obj1
+echo "comprimiendo obj2"
+./majinbuu -c obj2
+echo "comprimiendo pic"
+./majinbuu -c pic
+echo "Comprimiendo archivos extras:"
+echo "comprimiendo pi.txt"
+./majinbuu -c pi.txt
+echo "comprimiendo AMillionRandomDigits.bin"
+./majinbuu -c AMillionRandomDigits.bin
+echo "comprimiendo testpdf1.pdf"
+./majinbuu -c testpdf1.pdf
+

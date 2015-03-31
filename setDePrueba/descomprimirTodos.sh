@@ -1,0 +1,45 @@
+echo "Descomprimiendo el Calgary Corpus:"
+echo "descomprimiendo bib.1"
+./TpGrupo1 -d bib.1
+echo "descomprimiendo book1.1"
+./TpGrupo1 -d book1.1
+echo "descomprimiendo book2.1"
+./TpGrupo1 -d book2.1
+echo "descomprimiendo trans.1"
+./TpGrupo1 -d trans.1
+echo "descomprimiendo progc.1"
+./TpGrupo1 -d progc.1
+echo "descomprimiendo progp.1"
+./TpGrupo1 -d progp.1
+echo "descomprimiendo progl.1"
+./TpGrupo1 -d progl.1
+echo "descomprimiendo news.1"
+./TpGrupo1 -d news.1
+echo "descomprimiendo geo.1"
+./TpGrupo1 -d geo.1
+echo "descomprimiendo paper1.1"
+./TpGrupo1 -d paper1.1
+echo "descomprimiendo paper2.1"
+./TpGrupo1 -d paper2.1
+echo "descomprimiendo paper3.1"
+./TpGrupo1 -d paper3.1
+echo "descomprimiendo paper4.1"
+./TpGrupo1 -d paper4.1
+echo "descomprimiendo paper5.1"
+./TpGrupo1 -d paper5.1
+echo "descomprimiendo paper6.1"
+./TpGrupo1 -d paper6.1
+echo "descomprimiendo obj1.1"
+./TpGrupo1 -d obj1.1
+echo "descomprimiendo obj2.1"
+./TpGrupo1 -d obj2.1
+echo "descomprimiendo pic.1"
+./TpGrupo1 -d pic.1
+echo "Descomprimiendo archivos extras:"
+echo "descomprimiendo pi.txt.1"
+./TpGrupo1 -d pi.txt.1
+echo "descomprimiendo AMillionRandomDigits.bin.1"
+./TpGrupo1 -d AMillionRandomDigits.bin.1
+echo "descomprimiendo testpdf1.pdf.1"
+./TpGrupo1 -d testpdf1.pdf.1
+

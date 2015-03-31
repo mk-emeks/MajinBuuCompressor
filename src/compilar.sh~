@@ -1,0 +1,1 @@
+g++ -m32 main.cpp -o bajinbuu Declaracion_de_constantes.h Compresor.h Compresor.cpp Overhead.h Overhead.cpp blockSorting.h blockSorting.cpp blockSortingLeft.h blockSortingLeft.cpp Move_to_front.h Move_to_front.cpp Aritmetico.h Aritmetico.cpp Nivel.h Nivel.cpp IO_processor.h IO_processor.cpp Writer.h Writer.cpp Nombre_archivo.h

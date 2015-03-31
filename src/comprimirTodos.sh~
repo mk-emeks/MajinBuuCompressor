@@ -1,0 +1,45 @@
+echo "Comprimiendo el Calgary Corpus: "
+echo "comprimiendo bib"
+./TpGrupo1 -c bib
+echo "comprimiendo book1"
+./TpGrupo1 -c book1
+echo "comprimiendo book2"
+./TpGrupo1 -c book2
+echo "comprimiendo trans"
+./TpGrupo1 -c trans
+echo "comprimiendo progc"
+./TpGrupo1 -c progc
+echo "comprimiendo progp"
+./TpGrupo1 -c progp
+echo "comprimiendo progl"
+./TpGrupo1 -c progl
+echo "comprimiendo news"
+./TpGrupo1 -c news
+echo "comprimiendo geo"
+./TpGrupo1 -c geo
+echo "comprimiendo paper1"
+./TpGrupo1 -c paper1
+echo "comprimiendo paper2"
+./TpGrupo1 -c paper2
+echo "comprimiendo paper3"
+./TpGrupo1 -c paper3
+echo "comprimiendo paper4"
+./TpGrupo1 -c paper4
+echo "comprimiendo paper5"
+./TpGrupo1 -c paper5
+echo "comprimiendo paper6"
+./TpGrupo1 -c paper6
+echo "comprimiendo obj1"
+./TpGrupo1 -c obj1
+echo "comprimiendo obj2"
+./TpGrupo1 -c obj2
+#echo "comprimiendo pic"
+#./TpGrupo1 -c pic
+echo "Comprimiendo archivos extras:"
+echo "comprimiendo pi.txt"
+./TpGrupo1 -c pi.txt
+echo "comprimiendo AMillionRandomDigits.bin"
+./TpGrupo1 -c AMillionRandomDigits.bin
+echo "comprimiendo testpdf1.pdf"
+./TpGrupo1 -c testpdf1.pdf
+
